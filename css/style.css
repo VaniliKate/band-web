@@ -8,4 +8,5 @@
 .float1 {
     text-align: right;
     float :right ;
+    height: 100px;
 }
