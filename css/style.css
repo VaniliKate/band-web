@@ -1,7 +1,7 @@
 .intro {
     background-color: navy;
     color : gold ;
-    padding: 6px;
+    border: 10px;
 }
 #title {
     color : coral;
@@ -12,8 +12,8 @@
 .float1 {
     text-align: right;
     float :right ;
-    height: 100px;
+    font-size:x-large;
 }
-.coral {
-    color: coral;
+#float2 {
+    font-size: x-large;
 }
