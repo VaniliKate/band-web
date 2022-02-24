@@ -5,3 +5,7 @@
 #title {
     color : coral;
 }
+.float1 {
+    text-align: right;
+    float :right ;
+}
