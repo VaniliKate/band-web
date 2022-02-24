@@ -17,3 +17,7 @@
 #float2 {
     font-size: x-large;
 }
+body {
+    border: 10px black;
+    font-family: 'Lucida Sans';
+}
