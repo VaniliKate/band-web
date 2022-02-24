@@ -1,6 +1,7 @@
 .intro {
     background-color: navy;
     color : gold ;
+    padding: 6px;
 }
 #title {
     color : coral;
