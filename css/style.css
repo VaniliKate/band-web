@@ -1,8 +1,4 @@
-.intro {
-    background-color: navy;
-    color : gold ;
-    border: 10px;
-}
+
 #title {
     color : coral;
     text-align: center;
@@ -20,4 +16,6 @@
 body {
     border: 10px black;
     font-family: 'Lucida Sans';
+    background-color: navy;
+    color : gold ;
 }
