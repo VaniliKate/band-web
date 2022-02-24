@@ -4,6 +4,9 @@
 }
 #title {
     color : coral;
+    text-align: center;
+    font-family: Verdana;
+    font-size:xx-large ;
 }
 .float1 {
     text-align: right;
