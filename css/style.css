@@ -6,8 +6,6 @@
     font-size:xx-large ;
 }
 .float1 {
-    text-align: right;
-    float :right ;
     font-size:x-large;
 }
 #float2 {
@@ -18,4 +16,9 @@ body {
     font-family: 'Lucida Sans';
     background-color: navy;
     color : gold ;
+}
+.headings{
+    font-size: large;
+    font-weight: bold;
+    font-family: 'Lucida Sans';
 }
